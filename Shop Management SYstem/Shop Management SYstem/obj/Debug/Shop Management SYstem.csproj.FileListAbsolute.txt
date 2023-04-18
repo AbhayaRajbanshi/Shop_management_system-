@@ -1,0 +1,33 @@
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.exe.config
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.exe
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.pdb
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.csproj.AssemblyReference.cache
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Properties.Resources.resources
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.csproj.GenerateResource.cache
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.csproj.CoreCompileInputs.cache
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.exe
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.pdb
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Select_Role.resources
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Form1.resources
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Customer.resources
+C:\Users\Abhaya Rajbanshi\source\repos\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller.resources
+E:\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.exe.config
+E:\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.exe
+E:\Shop Management SYstem\Shop Management SYstem\bin\Debug\Shop Management SYstem.pdb
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Customer.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Form1.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Properties.Resources.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Select_Role.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller_View.add_item.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller_View.delete_item.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.NewFolder1.seller_front.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller_View.update_item.resources
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management System.csproj.GenerateResource.cache
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.exe
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop Management SYstem.pdb
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller_View.View_progress.resources
+E:\Shop Management SYstem\Shop Management SYstem\bin\Debug\Database.mdb
+E:\Shop Management SYstem\Shop Management SYstem\obj\Debug\Shop_Management_SYstem.Seller_View.View_data.resources
